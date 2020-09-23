@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" showDialogOnRemoteDnD="false">
     <serverData>
       <paths name="IS117">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="Hw2" local="$PROJECT_DIR$" web="/Hw2" />
           </mappings>
         </serverdata>
       </paths>
